@@ -1,0 +1,3 @@
+[submodule "fortune-mod-farscape"]
+	path = fortune-mod-farscape
+	url = git://github.com/dwoffinden/fortune-mod-farscape
