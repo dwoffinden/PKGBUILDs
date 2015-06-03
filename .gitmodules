@@ -4,3 +4,6 @@
 [submodule "z3-git"]
 	path = z3-git
 	url = git://github.com/dwoffinden/z3-git
+[submodule "wikititle-git"]
+	path = wikititle-git
+	url = git://github.com/dwoffinden/wikititle-git
